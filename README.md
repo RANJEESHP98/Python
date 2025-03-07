@@ -35,3 +35,25 @@ Tuple
 
 1. Create a  tuple using numbers.
 2. Print the length of the tuple.
+
+
+
+# Assinment 3
+
+Conditional and Looping Statements
+1. write a program using integers and print the corresponding month.
+2. Write a program about a certain cinema currently sells tickets for a full price of 6 pounds, but always sells tickets for half price to people who are less than 16 years old, and for a third of the price for people who are 60 years old or more.
+3. Write a program calculate BMI and weight status.
+4. Write a program to recive the three numbers from the user and print the output which is gretaer among them.
+5. Find the factotrial number from the user using loop function.
+6. Reverse a number using while loop.
+7. write a program to print the inputted value and break the program if the value is 'done'.
+8. Write a program input the values from 1 to 1o from that find the multiples of 3 and 5 .If the multiple of 3 the output will be 'Fizz' and the multiple of 5 the output wants to be 'Buzz'. Furthermore, if the numbers multiples of both   5 and 3 the output is 'FizzBuzz'.
+9. Write a program print the number pattern.
+
+
+   
+
+
+
+
