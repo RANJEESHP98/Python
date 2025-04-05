@@ -59,7 +59,18 @@ Conditional and Looping Statements
 3. create a code to evaluate  mathamatical expression using eval()
 4. Write a progarm to filter  prime numbers from a given listof integers.
 5. Write a code convert the list of strings to uppercase using   map() function. 
-   
+
+
+# End Project
+
+
+1. From ABC company consisting of 458 rows and 9 columns.Preprossing dataset, analyzing data and finding using graph.
+2. In Preprossing replaces the value of height using random numbers between 150 and 180.
+3. Determine the distribution of employees across each teams and finding the percentage of total employees. it analysed using barchart.
+4. Segregate employees based on the postion of the company using pie-chart.
+5. Analyzing the age group distribution of employess using histogram.
+6. Finding the heighest salary of employees and the position with team background and it shows in the way of scatterplot.
+7. The correalation between age and salary analyzed and expressed using heat map. 
 
 
 
