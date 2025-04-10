@@ -54,7 +54,7 @@ Conditional and Looping Statements
 
 # Assinment 4
 
-1. Create a function using three arguments. first argumernts is optional, second argument default vaule is  10 and last argyument is 'NONE'. if the third argument is 'None'  find the sum. if the third value is != None find the product of three arguments.
+1. Create a function using three arguments. first argumernts is optional, second argument default vaule is  10 and last argument is 'NONE'. if the third argument is 'None'  find the sum. if the third value is != None find the product of three arguments.
 2. Create a code take the strings into List and the length of string is greater than 5.
 3. create a code to evaluate  mathamatical expression using eval()
 4. Write a progarm to filter  prime numbers from a given listof integers.
