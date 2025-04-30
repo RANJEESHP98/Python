@@ -58,7 +58,20 @@ Conditional and Looping Statements
 2. Create a code take the strings into List and the length of string is greater than 5.
 3. create a code to evaluate  mathamatical expression using eval()
 4. Write a progarm to filter  prime numbers from a given listof integers.
-5. Write a code convert the list of strings to uppercase using   map() function. 
+5. Write a code convert the list of strings to uppercase using   map() function.
+
+
+# Assignment 5
+
+1. Read a file from a system and print the content.
+2. Create a copy from one file to another file.
+3. Read the content a file and count the words in that file.
+4. Create a string and convert into integers, use the try-except   block when error occurs.
+5. Using input function user to enter the list of  integers and rise the excption if any of the number in a list is negative.
+6. Using input function user to enter the list of integers and compute the average of the integers, use the try-except concept even when the errors might occurs and create the finally clause and print the message "The program is  finished running".
+7. Input a filename and write a striing into the file, use try-except block for handle the exceptions when errors occur and print welcome message if there is no exceptions.
+
+
 
 
 # End Project
