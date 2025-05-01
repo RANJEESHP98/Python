@@ -91,6 +91,12 @@ Conditional and Looping Statements
 6. Identify the dataframe where age is greater than or equal to 30.
 7. Convert the dataframe into csv file and display the content.
 
+# Assignment 8
+
+1. Create a line plot using matpoltlib and display the four  different cities. the x axis show the year and y-axis represent the population.
+2. Create a scatter plot using seaborn that shows the relationship between number of hours studied and test score obtained by a group of students.
+3. Create a bar chart using matplotlib the shows,the total sales for each month of the year.
+
 
 
 # End Project
