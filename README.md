@@ -81,6 +81,17 @@ Conditional and Looping Statements
  5. Create module named employee, it contain class should be Employee , attributes name, salary and use method get_name() and get_salaray() in it. Display the name and salary based on the Employee class.
 
 
+# Assignment 7
+
+1. Create a arry using numpy the number from 1 to 10 and then make it 2*5 matrix format.
+2. create a aarry using numpy the number start from 1 to 20 and extract the elments from 5th to 15th index.
+3. using pandas series enter the data {apples:3,bananas:4,oranges:1} and add new data "pears" and value should be 4.
+4. Make a dataframe using pandas and mention the coloum names: name,age and gender. the table contain 10 rows.
+5. Additionally, add the new coloum name "occupation", the values should be "Programmer","Manager" and Analayst based on the each roles of employee.
+6. Identify the dataframe where age is greater than or equal to 30.
+7. Convert the dataframe into csv file and display the content.
+
+
 
 # End Project
 
