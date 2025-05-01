@@ -72,6 +72,14 @@ Conditional and Looping Statements
 7. Input a filename and write a striing into the file, use try-except block for handle the exceptions when errors occur and print welcome message if there is no exceptions.
 
 
+# Assignment 6
+
+1. Create a code to manage a university course catalog and define a base called Course.
+2. Create a course code and course name  which is to be a string.and  credit hours which should be an integer.
+3. Create a two subclass Core Course and Elective course in under the Course.
+4. Core course must have additional property for major and represent boolen even when the course is major program.Meanwhile, Elective course must also need additional property which represent in string and indicate it (general,technical....etc)
+ 5. Create module named employee, it contain class should be Employee , attributes name, salary and use method get_name() and get_salaray() in it. Display the name and salary based on the Employee class.
+
 
 
 # End Project
